@@ -106,3 +106,7 @@ If [hubot-auth](https://github.com/hubot-scripts/hubot-auth) script is loaded,
 recommended you use the `forget` command instead of `drop`.
 
 `hubot: drop <factoid>`
+
+### FYI
+
+Learning a new factoid requires a minimum of 3 chars to work. This may be changed to an env var in the future (or will accept a pull request).
